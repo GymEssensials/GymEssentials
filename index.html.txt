@@ -1,0 +1,47 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GymEssentials</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Cart</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="featured-products">
+            <h1>Featured Products</h1>
+            <div class="product-grid">
+                <!-- Add product cards here -->
+            </div>
+        </section>
+        <section class="about">
+            <h1>About GymEssentials</h1>
+            <p>
+                Welcome to GymEssentials, your one-stop-shop for all your gym supplement needs. We offer a wide range of high-quality products to help you achieve your fitness goals. Browse our selection and start your journey towards a healthier lifestyle today!
+            </p>
+        </section>
+        <section class="contact">
+            <h1>Contact Us</h1>
+            <p>
+                If you have any questions or concerns, please feel free to reach out to our customer support team. You can contact us at support@gymessentials.com or call us at (123) 456-7890.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2022 GymEssentials. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+```
